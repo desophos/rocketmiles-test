@@ -1,5 +1,5 @@
 # rocketmiles-test
-Tests for Rocketmiles.com search functionality
+Tests for Rocketmiles.com search functionality.
 
 Pipenv used for dependency management; see Pipfile for package list.
 
